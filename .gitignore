@@ -9,3 +9,7 @@ lec2/01.gridworld_value_iteration/__pycache__/environment.cpython-35.pyc
 lec2/00.gridworld_policy_iteration/__pycache__/environment.cpython-35.pyc
 lec3/01.gridworld_value_iteration/__pycache__/environment.cpython-35.pyc
 lec3/00.gridworld_policy_iteration/__pycache__/environment.cpython-35.pyc
+lec3/01.gridworld_value_iteration/__pycache__/environment.cpython-36.pyc
+lec3/00.gridworld_policy_iteration/__pycache__/environment.cpython-36.pyc
+.idea/vcs.xml
+.idea/rlcode.iml
