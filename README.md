@@ -33,8 +33,8 @@ pip install msgpack
 pip install keras==2.0.3
 python -m pip install --upgrade pip
 pip install gym==0.9.4
-cd C:\Users\82109\rl_env_collection 
+cd C:\Users\{__YOUR_PATH__}\rl_env_collection 
 git clone https://github.com/tuzzer/gym-maze.git 또는 git clone https://github.com/MattChanTK/gym-maze.git
-cd C:\Users\82109\rl_env_collection\gym-maze
+cd C:\Users\{__YOUR_PATH__}\rl_env_collection\gym-maze
 python setup.py install
 ```
