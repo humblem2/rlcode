@@ -1,5 +1,5 @@
 # rlcode
-RL 코드(py35)
+RL 코드
 
 # Lec3 : Planning Dynamic Programming
   * Value iteration for (Env. 5x5 grid world)
