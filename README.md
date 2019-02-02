@@ -1,7 +1,7 @@
 # rlcode
 RL 코드
 
-# Lec3 : Planning Dynamic Programming
+## Lec3 : Planning Dynamic Programming
   * Value iteration for (Env. 5x5 grid world)
   * Policy iteration for (Env. 5x5 grid world)
 
